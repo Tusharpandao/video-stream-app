@@ -1,0 +1,6 @@
+[submodule "spring-stream-backend"]
+	path = spring-stream-backend
+	url = https://github.com/Tusharpandao/spring-stream-backend
+[submodule "stream-front-end"]
+	path = stream-front-end
+	url = https://github.com/Tusharpandao/video-stream-front-end
